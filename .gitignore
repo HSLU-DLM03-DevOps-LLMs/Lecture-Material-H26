@@ -1,0 +1,15 @@
+# Secrets (API keys)
+.env
+
+# Scratch copies of the example projects created by the notebooks
+workspace/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
